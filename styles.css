@@ -1,0 +1,103 @@
+h1{
+font-family:  'Amatic SC', cursive;
+}
+h3{
+  font-family: 'Merriweather', serif;
+}
+body{
+  text-align: center;
+  border: 0;
+  margin: 0;
+  background-color: #87dfd6;
+
+
+}
+p{
+  font-family: "Merriweather", serif;
+}
+h2{
+  font-family: "Merriweather", serif;}
+.pro{
+  font-family: 'Merriweather', serif;
+  display: inline-block;
+  text-decoration: underline;
+}
+.Emilio{
+ margin: 0 auto 0 auto;
+ font-size: 75px
+
+}
+.cloud1{
+  position: absolute;
+  right: 300px;
+  top:100px;
+}
+.cloud2{
+  position: absolute;
+  left: 300px;
+  top: 300px;
+}
+.mountain{
+  position: absolute;
+  margin: 0 auto;
+  left: 350px
+
+}
+.computer{
+  position:absolute;
+  top: 1000px;
+}
+.angela{
+  position:absolute;
+  top: 1000px;
+
+}
+.top-container{
+  background-color: #89c9b8;
+  text-align: center;
+  width: 100%;
+  height: 640px;
+  border: 0;
+  padding: 90px 0 0 0;
+
+}
+.middle-container{
+background-color: #e2979c;
+text-align: center;
+
+}
+.bottom-container{
+
+}
+.footer-link{
+
+}
+.Emiliofoto{
+  border-radius: 100%;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 100px;
+  left: 100px;
+  border: solid;
+
+}
+.Emiliofoto:hover{
+  border-radius: 100%;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  top: 100px;
+  left: 100px;
+  transition: 1s;
+  border: solid;
+
+
+}
+.footer-link{
+  text-align: center;
+  font-family: sans-serif;
+}
+.contact-me{
+  background-color: #f2aaaa;
+}
